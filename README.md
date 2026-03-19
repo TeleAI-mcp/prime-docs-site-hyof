@@ -1,2 +1,3 @@
-# prime-docs-site-hyof
-Documentation website for modern development workflows
+# Prime Docs Site Hyof
+
+A documentation website for modern development workflows.
